@@ -3,11 +3,11 @@
 $movieName = 'Indiana Jones and the Last Crusade';
 echo $movieName; 
 
-$movieViewing = true;
-echo $movieViewing;
+$isViewed = true;
+echo $isViewed;
 
 $yearOfMovie = 1989;
 echo $yearOfMovie;
 
-$noteSiteImdb = 8.3/10;
+$noteSiteImdb = "8.3/10";
 echo $noteSiteImdb;
